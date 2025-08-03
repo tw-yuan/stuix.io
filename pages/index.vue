@@ -3,7 +3,7 @@
     <div class="container">
       <div class="home-about">
         <div class="content">
-          <p>Student& Technology United Internet Exchanges</p>
+          <p>Student & Technology United Internet Exchanges</p>
           <p>A community-based Internet Exchanges</p>
           <p>
             <a href="https://ixpm.stuix.io">
